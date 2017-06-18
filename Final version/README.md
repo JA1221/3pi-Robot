@@ -1,7 +1,7 @@
-# 3pi-Robot
+﻿# 3pi-Robot
 線迷宮競速用
 
-※end.ino主程式
+※Final version.ino主程式
 ├ Bluetooth1 藍芽模組控制
 ├ follow_segment 循線
 ├ turn 轉彎
